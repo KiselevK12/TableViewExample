@@ -73,8 +73,8 @@
 		B58FDDD329887C7A006F73E9 /* Sources */ = {
 			isa = PBXGroup;
 			children = (
-				B58FDDC229887C56006F73E9 /* ViewController.swift */,
 				B58FDDD429887CB4006F73E9 /* App */,
+				B58FDDC229887C56006F73E9 /* ViewController.swift */,
 			);
 			path = Sources;
 			sourceTree = "<group>";
